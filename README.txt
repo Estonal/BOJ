@@ -109,3 +109,5 @@
 16486번 운동장 한 바퀴 : https://www.acmicpc.net/problem/16486
 19944번 뉴비의 기준은 뭘까? : https://www.acmicpc.net/problem/19944
 15727번 조별과제를 하려는데 조장이 사라졌다 : https://www.acmicpc.net/problem/15727
+1018번 체스판 다시 칠하기 : https://www.acmicpc.net/problem/1018
+1181번 단어 정렬 : https://www.acmicpc.net/problem/1181
