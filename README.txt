@@ -111,3 +111,5 @@
 15727번 조별과제를 하려는데 조장이 사라졌다 : https://www.acmicpc.net/problem/15727
 1018번 체스판 다시 칠하기 : https://www.acmicpc.net/problem/1018
 1181번 단어 정렬 : https://www.acmicpc.net/problem/1181
+1259번 팰린드롬수 : https://www.acmicpc.net/problem/1259
+1920번 수 찾기 : https://www.acmicpc.net/problem/1920
