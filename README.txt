@@ -113,3 +113,5 @@
 1181번 단어 정렬 : https://www.acmicpc.net/problem/1181
 1259번 팰린드롬수 : https://www.acmicpc.net/problem/1259
 1920번 수 찾기 : https://www.acmicpc.net/problem/1920
+4796번 캠핑 : https://www.acmicpc.net/problem/4796
+2609번 최대공약수와 최소공배수 : https://www.acmicpc.net/problem/2609
