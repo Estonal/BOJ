@@ -1,6 +1,11 @@
-본 repository는 Backjoon Online Judge 사이트에서 푼 알고리즘 문제들의 풀이를 기록해 놓기 위해 만들었음.
+PS Practice - Baekjoon Online Judge
+===================================
 
-각 문제번호별 제목과 웹주소는 다음과 같다:
+본 repository는 Backjoon Online Judge 사이트에서 푼 알고리즘 문제들의 풀이를 기록해 놓기 위해 만들었음.
+-------------------------------------------------------------------------------------------------
+# 해결한 문제들
+
+## 2020년 04월 02일 ~ 2021년 04월 11일
 2557번 Hello World : https://www.acmicpc.net/problem/2557
 10718번 We love kriii : https://www.acmicpc.net/problem/10718
 10171번 고양이 : https://www.acmicpc.net/problem/10171
@@ -109,11 +114,19 @@
 16486번 운동장 한 바퀴 : https://www.acmicpc.net/problem/16486
 19944번 뉴비의 기준은 뭘까? : https://www.acmicpc.net/problem/19944
 15727번 조별과제를 하려는데 조장이 사라졌다 : https://www.acmicpc.net/problem/15727
+
+## 2021년 04월 27일
 1018번 체스판 다시 칠하기 : https://www.acmicpc.net/problem/1018
 1181번 단어 정렬 : https://www.acmicpc.net/problem/1181
+
+## 2021년 04월 28일
 1259번 팰린드롬수 : https://www.acmicpc.net/problem/1259
 1920번 수 찾기 : https://www.acmicpc.net/problem/1920
+
+## 2021년 04월 29일
 4796번 캠핑 : https://www.acmicpc.net/problem/4796
 2609번 최대공약수와 최소공배수 : https://www.acmicpc.net/problem/2609
+
+## 2021년 04월 30일
 2440번 별 찍기 - 3 : https://www.acmicpc.net/problem/2440
 2448번 별 찍기 - 11 : https://www.acmicpc.net/problem/2448
