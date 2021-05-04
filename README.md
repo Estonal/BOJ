@@ -147,4 +147,8 @@ Backjoon Online Judge 사이트에서 푼 알고리즘 문제들의 풀이 기�
 11729번 하노이 탑 이동 순서 : https://www.acmicpc.net/problem/11729   
 10757번 큰 수 A+B : https://www.acmicpc.net/problem/10757   
 
+#### 05월 04일
+1427번 소트인사이드 : https://www.acmicpc.net/problem/1427   
+1158번 요세푸스 문제 : https://www.acmicpc.net/problem/1158   
+
 
