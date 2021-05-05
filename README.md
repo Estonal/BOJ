@@ -151,4 +151,9 @@ Backjoon Online Judge 사이트에서 푼 알고리즘 문제들의 풀이 기�
 1427번 소트인사이드 : https://www.acmicpc.net/problem/1427   
 1158번 요세푸스 문제 : https://www.acmicpc.net/problem/1158   
 
+#### 05월 05일
+1072번 게임 : https://www.acmicpc.net/problem/1072   
+1350번 진짜 공간 : https://www.acmicpc.net/problem/1350   
+
+
 
