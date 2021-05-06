@@ -2,6 +2,7 @@ PS Practice - Baekjoon Online Judge
 ===================================
 
 Backjoon Online Judge 사이트에서 푼 알고리즘 문제들의 풀이 기록용   
+BOJ ID : asdarwin03   
 
 ## 해결한 문제
 
@@ -154,6 +155,10 @@ Backjoon Online Judge 사이트에서 푼 알고리즘 문제들의 풀이 기�
 #### 05월 05일
 1072번 게임 : https://www.acmicpc.net/problem/1072   
 1350번 진짜 공간 : https://www.acmicpc.net/problem/1350   
+
+#### 05월 06일
+1145번 적어도 대부분의 배수 : https://www.acmicpc.net/problem/1145   
+1343번 폴리오미노 : https://www.acmicpc.net/problem/1343   
 
 
 
