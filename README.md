@@ -160,5 +160,9 @@ BOJ ID : asdarwin03
 1145번 적어도 대부분의 배수 : https://www.acmicpc.net/problem/1145   
 1343번 폴리오미노 : https://www.acmicpc.net/problem/1343   
 
+#### 05월 07일
+11726번 2×n 타일링 : https://www.acmicpc.net/problem/11726   
+1463번 1로 만들기 : https://www.acmicpc.net/problem/1463   
+
 
 
