@@ -164,5 +164,9 @@ BOJ ID : asdarwin03
 11726번 2×n 타일링 : https://www.acmicpc.net/problem/11726   
 1463번 1로 만들기 : https://www.acmicpc.net/problem/1463   
 
+#### 05월 08일
+10101번 삼각형 외우기 : https://www.acmicpc.net/problem/10101   
+5596번 시험 점수 : https://www.acmicpc.net/problem/5596   
+
 
 
