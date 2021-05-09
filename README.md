@@ -168,5 +168,9 @@ BOJ ID : asdarwin03
 10101번 삼각형 외우기 : https://www.acmicpc.net/problem/10101   
 5596번 시험 점수 : https://www.acmicpc.net/problem/5596   
 
+#### 05월 09일
+2441번 별 찍기 - 4 : https://www.acmicpc.net/problem/2441   
+4714번 Lunacy : https://www.acmicpc.net/problem/4714   
+
 
 
