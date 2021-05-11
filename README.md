@@ -180,5 +180,8 @@ BOJ ID : asdarwin03
 10773번 제로 : https://www.acmicpc.net/problem/10773   
 1934번 최소공배수 : https://www.acmicpc.net/problem/1934   
 
+#### 05월 12일
+14646번 욱제는 결정장애야!! : https://www.acmicpc.net/problem/14646   
+1292번 쉽게 푸는 문제 : https://www.acmicpc.net/problem/1292   
 
 
