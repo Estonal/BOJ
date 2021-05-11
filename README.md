@@ -176,4 +176,9 @@ BOJ ID : asdarwin03
 5532번 방학 숙제 : https://www.acmicpc.net/problem/5532   
 10179번 쿠폰 : https://www.acmicpc.net/problem/10179   
 
+#### 05월 11일
+10773번 제로 : https://www.acmicpc.net/problem/10773   
+1934번 최소공배수 : https://www.acmicpc.net/problem/1934   
+
+
 
