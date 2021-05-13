@@ -184,4 +184,8 @@ BOJ ID : asdarwin03
 14646번 욱제는 결정장애야!! : https://www.acmicpc.net/problem/14646   
 1292번 쉽게 푸는 문제 : https://www.acmicpc.net/problem/1292   
 
+#### 05월 13일
+5337번 웰컴 : https://www.acmicpc.net/problem/5337   
+2752번 세수정렬 : https://www.acmicpc.net/problem/2752   
+
 
