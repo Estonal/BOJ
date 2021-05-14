@@ -188,4 +188,9 @@ BOJ ID : asdarwin03
 5337번 웰컴 : https://www.acmicpc.net/problem/5337   
 2752번 세수정렬 : https://www.acmicpc.net/problem/2752   
 
+#### 05월 14일
+1713번 후보 추천하기 : https://www.acmicpc.net/problem/1713   
+14645번 와이버스 부릉부릉 : https://www.acmicpc.net/problem/14645   
+
+
 
