@@ -192,5 +192,9 @@ BOJ ID : asdarwin03
 1713번 후보 추천하기 : https://www.acmicpc.net/problem/1713   
 14645번 와이버스 부릉부릉 : https://www.acmicpc.net/problem/14645   
 
+#### 05월 15일
+1264번 모음의 개수 : https://www.acmicpc.net/problem/1264   
+1731번 추론 : https://www.acmicpc.net/problem/1731   
+
 
 
