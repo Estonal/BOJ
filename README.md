@@ -204,6 +204,11 @@ BOJ ID : asdarwin03
 10211번 Maximum Subarray : https://www.acmicpc.net/problem/10211   
 2754번 학점계산 : https://www.acmicpc.net/problem/2754   
 
+#### 05월 18일
+11053번 가장 긴 증가하는 부분 수열 : https://www.acmicpc.net/problem/11053   
+17216번 가장 큰 감소 부분 수열 : https://www.acmicpc.net/problem/17216   
+
+
 
 
 
