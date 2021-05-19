@@ -208,6 +208,11 @@ BOJ ID : asdarwin03
 11053번 가장 긴 증가하는 부분 수열 : https://www.acmicpc.net/problem/11053   
 17216번 가장 큰 감소 부분 수열 : https://www.acmicpc.net/problem/17216   
 
+#### 05월 19일
+1149번 RGB거리 : https://www.acmicpc.net/problem/1149   
+15686번 치킨 배달 : https://www.acmicpc.net/problem/15686   
+
+
 
 
 
