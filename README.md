@@ -215,6 +215,11 @@ BOJ ID : asdarwin03
 #### 05월 20일
 12865번 평범한 배낭 : https://www.acmicpc.net/problem/12865   
 
+#### 05월 21일
+10816번 숫자 카드 2 : https://www.acmicpc.net/problem/10816   
+2166번 다각형의 면적 : https://www.acmicpc.net/problem/2166   
+
+
 
 
 
