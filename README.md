@@ -219,7 +219,9 @@ BOJ ID : asdarwin03
 10816번 숫자 카드 2 : https://www.acmicpc.net/problem/10816   
 2166번 다각형의 면적 : https://www.acmicpc.net/problem/2166   
 
-
+#### 05월 22일
+9095번 1, 2, 3 더하기 : https://www.acmicpc.net/problem/9095   
+1309번 동물원 : https://www.acmicpc.net/problem/1309   
 
 
 
