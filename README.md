@@ -223,6 +223,10 @@ BOJ ID : asdarwin03
 9095번 1, 2, 3 더하기 : https://www.acmicpc.net/problem/9095   
 1309번 동물원 : https://www.acmicpc.net/problem/1309   
 
+#### 05월 23일
+18870번 좌표 압축 : https://www.acmicpc.net/problem/18870   
+2161번 카드1 : https://www.acmicpc.net/problem/2161   
+
 
 
 
