@@ -227,6 +227,10 @@ BOJ ID : asdarwin03
 18870번 좌표 압축 : https://www.acmicpc.net/problem/18870   
 2161번 카드1 : https://www.acmicpc.net/problem/2161   
 
+#### 05월 24일
+11055번 가장 큰 증가 부분 수열 : https://www.acmicpc.net/problem/11055   
+11866번 요세푸스 문제 0 : https://www.acmicpc.net/problem/11866   
+
 
 
 
