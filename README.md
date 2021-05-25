@@ -231,6 +231,10 @@ BOJ ID : asdarwin03
 11055번 가장 큰 증가 부분 수열 : https://www.acmicpc.net/problem/11055   
 11866번 요세푸스 문제 0 : https://www.acmicpc.net/problem/11866   
 
+#### 05월 25일
+2193번 이친수 : https://www.acmicpc.net/problem/2193   
+1764번 듣보잡 : https://www.acmicpc.net/problem/1764   
+
 
 
 
