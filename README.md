@@ -235,6 +235,10 @@ BOJ ID : asdarwin03
 2193번 이친수 : https://www.acmicpc.net/problem/2193   
 1764번 듣보잡 : https://www.acmicpc.net/problem/1764   
 
+#### 05월 26일
+10926번 ??! : https://www.acmicpc.net/problem/10926   
+2693번 N번째 큰 수 : https://www.acmicpc.net/problem/2693   
+
 
 
 
