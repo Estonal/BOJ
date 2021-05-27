@@ -239,6 +239,10 @@ BOJ ID : asdarwin03
 10926번 ??! : https://www.acmicpc.net/problem/10926   
 2693번 N번째 큰 수 : https://www.acmicpc.net/problem/2693   
 
+#### 05월 27일
+1300번 K번째 수 : https://www.acmicpc.net/problem/1300   
+1464번 뒤집기 3 : https://www.acmicpc.net/problem/1464   
+
 
 
 
