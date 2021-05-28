@@ -243,6 +243,10 @@ BOJ ID : asdarwin03
 1300번 K번째 수 : https://www.acmicpc.net/problem/1300   
 1464번 뒤집기 3 : https://www.acmicpc.net/problem/1464   
 
+#### 05월 28일
+1931번 회의실 배정 : https://www.acmicpc.net/problem/1931   
+11050번 이항 계수 1 : https://www.acmicpc.net/problem/11050   
+
 
 
 
