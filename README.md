@@ -247,6 +247,10 @@ BOJ ID : asdarwin03
 1931번 회의실 배정 : https://www.acmicpc.net/problem/1931   
 11050번 이항 계수 1 : https://www.acmicpc.net/problem/11050   
 
+#### 05월 29일
+1225번 이상한 곱셈 : https://www.acmicpc.net/problem/1225   
+1789번 수들의 합 : https://www.acmicpc.net/problem/1789   
+
 
 
 
