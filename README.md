@@ -255,6 +255,10 @@ BOJ ID : asdarwin03
 1439번 뒤집기 : https://www.acmicpc.net/problem/1439   
 1037번 약수 : https://www.acmicpc.net/problem/1037   
 
+#### 05월 31일
+1043번 거짓말 : https://www.acmicpc.net/problem/1043   
+1051번 숫자 정사각형 : https://www.acmicpc.net/problem/1051   
+
 
 
 
