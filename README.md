@@ -251,6 +251,10 @@ BOJ ID : asdarwin03
 1225번 이상한 곱셈 : https://www.acmicpc.net/problem/1225   
 1789번 수들의 합 : https://www.acmicpc.net/problem/1789   
 
+#### 05월 30일
+1439번 뒤집기 : https://www.acmicpc.net/problem/1439   
+1037번 약수 : https://www.acmicpc.net/problem/1037   
+
 
 
 
