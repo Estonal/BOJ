@@ -1,12 +1,13 @@
 PS Practice - Baekjoon Online Judge
 ===================================
 
-Backjoon Online Judge 사이트에서 푼 알고리즘 문제들의 풀이 기록용   
+Backjoon Online Judge 알고리즘 문제 풀이   
 BOJ ID : asdarwin03   
+꾸준히 1일 2문제   
 
 ## 해결한 문제
 
-### ~ 2021년 04월 11일
+### ~ 2021년 04월
 2557번 Hello World : https://www.acmicpc.net/problem/2557   
 10718번 We love kriii : https://www.acmicpc.net/problem/10718   
 10171번 고양이 : https://www.acmicpc.net/problem/10171   
@@ -115,150 +116,109 @@ BOJ ID : asdarwin03
 16486번 운동장 한 바퀴 : https://www.acmicpc.net/problem/16486   
 19944번 뉴비의 기준은 뭘까? : https://www.acmicpc.net/problem/19944   
 15727번 조별과제를 하려는데 조장이 사라졌다 : https://www.acmicpc.net/problem/15727   
-
-***
-### 2021년 04월 27일 ~ 2021년 04월 30일
-#### 04월 27일
 1018번 체스판 다시 칠하기 : https://www.acmicpc.net/problem/1018   
 1181번 단어 정렬 : https://www.acmicpc.net/problem/1181   
-
-#### 04월 28일
 1259번 팰린드롬수 : https://www.acmicpc.net/problem/1259   
 1920번 수 찾기 : https://www.acmicpc.net/problem/1920   
-
-#### 04월 29일
 4796번 캠핑 : https://www.acmicpc.net/problem/4796   
 2609번 최대공약수와 최소공배수 : https://www.acmicpc.net/problem/2609   
-
-#### 04월 30일
 2440번 별 찍기 - 3 : https://www.acmicpc.net/problem/2440   
 2448번 별 찍기 - 11 : https://www.acmicpc.net/problem/2448   
 
 ***
 ### 2021년 05월
-#### 05월 01일
 2164번 카드2 : https://www.acmicpc.net/problem/2164   
 9012번 괄호 : https://www.acmicpc.net/problem/9012   
-
-#### 05월 02일
+   
 1052번 물병 : https://www.acmicpc.net/problem/1052   
 11651번 좌표 정렬하기 2 : https://www.acmicpc.net/problem/11651   
-
-#### 05월 03일
+   
 11729번 하노이 탑 이동 순서 : https://www.acmicpc.net/problem/11729   
 10757번 큰 수 A+B : https://www.acmicpc.net/problem/10757   
-
-#### 05월 04일
+   
 1427번 소트인사이드 : https://www.acmicpc.net/problem/1427   
 1158번 요세푸스 문제 : https://www.acmicpc.net/problem/1158   
-
-#### 05월 05일
+   
 1072번 게임 : https://www.acmicpc.net/problem/1072   
 1350번 진짜 공간 : https://www.acmicpc.net/problem/1350   
-
-#### 05월 06일
+   
 1145번 적어도 대부분의 배수 : https://www.acmicpc.net/problem/1145   
 1343번 폴리오미노 : https://www.acmicpc.net/problem/1343   
-
-#### 05월 07일
+   
 11726번 2×n 타일링 : https://www.acmicpc.net/problem/11726   
 1463번 1로 만들기 : https://www.acmicpc.net/problem/1463   
-
-#### 05월 08일
+   
 10101번 삼각형 외우기 : https://www.acmicpc.net/problem/10101   
 5596번 시험 점수 : https://www.acmicpc.net/problem/5596   
-
-#### 05월 09일
+   
 2441번 별 찍기 - 4 : https://www.acmicpc.net/problem/2441   
 4714번 Lunacy : https://www.acmicpc.net/problem/4714   
-
-#### 05월 10일
+   
 5532번 방학 숙제 : https://www.acmicpc.net/problem/5532   
 10179번 쿠폰 : https://www.acmicpc.net/problem/10179   
-
-#### 05월 11일
+   
 10773번 제로 : https://www.acmicpc.net/problem/10773   
 1934번 최소공배수 : https://www.acmicpc.net/problem/1934   
-
-#### 05월 12일
+   
 14646번 욱제는 결정장애야!! : https://www.acmicpc.net/problem/14646   
 1292번 쉽게 푸는 문제 : https://www.acmicpc.net/problem/1292   
-
-#### 05월 13일
+   
 5337번 웰컴 : https://www.acmicpc.net/problem/5337   
 2752번 세수정렬 : https://www.acmicpc.net/problem/2752   
-
-#### 05월 14일
+   
 1713번 후보 추천하기 : https://www.acmicpc.net/problem/1713   
 14645번 와이버스 부릉부릉 : https://www.acmicpc.net/problem/14645   
-
-#### 05월 15일
+   
 1264번 모음의 개수 : https://www.acmicpc.net/problem/1264   
 1731번 추론 : https://www.acmicpc.net/problem/1731   
-
-#### 05월 16일
+   
 9711번 피보나치 : https://www.acmicpc.net/problem/9711   
 11659번 구간 합 구하기 4 : https://www.acmicpc.net/problem/11659   
-
-#### 05월 17일
+   
 10211번 Maximum Subarray : https://www.acmicpc.net/problem/10211   
 2754번 학점계산 : https://www.acmicpc.net/problem/2754   
-
-#### 05월 18일
+   
 11053번 가장 긴 증가하는 부분 수열 : https://www.acmicpc.net/problem/11053   
 17216번 가장 큰 감소 부분 수열 : https://www.acmicpc.net/problem/17216   
-
-#### 05월 19일
+   
 1149번 RGB거리 : https://www.acmicpc.net/problem/1149   
 15686번 치킨 배달 : https://www.acmicpc.net/problem/15686   
-
-#### 05월 20일
+   
 12865번 평범한 배낭 : https://www.acmicpc.net/problem/12865   
-
-#### 05월 21일
+   
 10816번 숫자 카드 2 : https://www.acmicpc.net/problem/10816   
 2166번 다각형의 면적 : https://www.acmicpc.net/problem/2166   
-
-#### 05월 22일
+   
 9095번 1, 2, 3 더하기 : https://www.acmicpc.net/problem/9095   
 1309번 동물원 : https://www.acmicpc.net/problem/1309   
-
-#### 05월 23일
+   
 18870번 좌표 압축 : https://www.acmicpc.net/problem/18870   
 2161번 카드1 : https://www.acmicpc.net/problem/2161   
-
-#### 05월 24일
+   
 11055번 가장 큰 증가 부분 수열 : https://www.acmicpc.net/problem/11055   
 11866번 요세푸스 문제 0 : https://www.acmicpc.net/problem/11866   
-
-#### 05월 25일
+   
 2193번 이친수 : https://www.acmicpc.net/problem/2193   
 1764번 듣보잡 : https://www.acmicpc.net/problem/1764   
-
-#### 05월 26일
+   
 10926번 ??! : https://www.acmicpc.net/problem/10926   
 2693번 N번째 큰 수 : https://www.acmicpc.net/problem/2693   
-
-#### 05월 27일
+   
 1300번 K번째 수 : https://www.acmicpc.net/problem/1300   
 1464번 뒤집기 3 : https://www.acmicpc.net/problem/1464   
-
-#### 05월 28일
+   
 1931번 회의실 배정 : https://www.acmicpc.net/problem/1931   
 11050번 이항 계수 1 : https://www.acmicpc.net/problem/11050   
-
-#### 05월 29일
+   
 1225번 이상한 곱셈 : https://www.acmicpc.net/problem/1225   
 1789번 수들의 합 : https://www.acmicpc.net/problem/1789   
-
-#### 05월 30일
+   
 1439번 뒤집기 : https://www.acmicpc.net/problem/1439   
 1037번 약수 : https://www.acmicpc.net/problem/1037   
-
-#### 05월 31일
+   
 1043번 거짓말 : https://www.acmicpc.net/problem/1043   
 1051번 숫자 정사각형 : https://www.acmicpc.net/problem/1051   
-
-
-
+   
+***
+### 2021년 06월
 
