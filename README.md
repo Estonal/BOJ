@@ -224,3 +224,7 @@ BOJ ID : asdarwin03
 #### 06월 01일
 6443번 애너그램 : https://www.acmicpc.net/problem/6443   
 10828번 스택 : https://www.acmicpc.net/problem/10828   
+
+#### 06월 02일
+10845번 큐 : https://www.acmicpc.net/problem/10845   
+10866번 덱 : https://www.acmicpc.net/problem/10866   
