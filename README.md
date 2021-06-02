@@ -228,3 +228,7 @@ BOJ ID : asdarwin03
 #### 06월 02일
 10845번 큐 : https://www.acmicpc.net/problem/10845   
 10866번 덱 : https://www.acmicpc.net/problem/10866   
+
+#### 06월 03일
+9653번 스타워즈 로고 : https://www.acmicpc.net/problem/9653   
+5338번 마이크로소프트 로고 : https://www.acmicpc.net/problem/5338   
