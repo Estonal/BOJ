@@ -236,3 +236,7 @@ BOJ ID : asdarwin03
 #### 06월 04일
 2420번 사파리월드 : https://www.acmicpc.net/problem/2420   
 10162번 전자레인지 : https://www.acmicpc.net/problem/10162   
+
+#### 06월 05일
+13866번 팀 나누기 : https://www.acmicpc.net/problem/13866   
+11549번 Identifying tea : https://www.acmicpc.net/problem/11549   
