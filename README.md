@@ -244,3 +244,7 @@ BOJ ID : asdarwin03
 #### 06월 06일
 17295번 엔드게임 스포일러 : https://www.acmicpc.net/problem/17295   
 2747번 피보나치 수 : https://www.acmicpc.net/problem/2747   
+
+#### 06월 07일
+11382번 꼬마 정민 : https://www.acmicpc.net/problem/11382   
+14652번 나는 행복합니다~ : https://www.acmicpc.net/problem/14652   
