@@ -248,3 +248,7 @@ BOJ ID : asdarwin03
 #### 06월 07일
 11382번 꼬마 정민 : https://www.acmicpc.net/problem/11382   
 14652번 나는 행복합니다~ : https://www.acmicpc.net/problem/14652   
+
+#### 06월 08일
+1302번 베스트셀러 : https://www.acmicpc.net/problem/1302   
+1964번 오각형, 오각형, 오각형… : https://www.acmicpc.net/problem/1964   
