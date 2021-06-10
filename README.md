@@ -256,3 +256,7 @@ BOJ ID : asdarwin03
 #### 06월 09일
 14918번 더하기 : https://www.acmicpc.net/problem/14918   
 15733번 나는 누구인가 : https://www.acmicpc.net/problem/15733   
+
+#### 06월 10일
+1237번 정ㅋ벅ㅋ : https://www.acmicpc.net/problem/1237   
+12096번 : https://www.acmicpc.net/problem/12096   
