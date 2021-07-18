@@ -221,42 +221,35 @@ BOJ ID : asdarwin03
    
 ***
 ### 2021년 06월
-#### 06월 01일
 6443번 애너그램 : https://www.acmicpc.net/problem/6443   
 10828번 스택 : https://www.acmicpc.net/problem/10828   
 
-#### 06월 02일
 10845번 큐 : https://www.acmicpc.net/problem/10845   
 10866번 덱 : https://www.acmicpc.net/problem/10866   
 
-#### 06월 03일
 9653번 스타워즈 로고 : https://www.acmicpc.net/problem/9653   
 5338번 마이크로소프트 로고 : https://www.acmicpc.net/problem/5338   
 
-#### 06월 04일
 2420번 사파리월드 : https://www.acmicpc.net/problem/2420   
 10162번 전자레인지 : https://www.acmicpc.net/problem/10162   
 
-#### 06월 05일
 13866번 팀 나누기 : https://www.acmicpc.net/problem/13866   
 11549번 Identifying tea : https://www.acmicpc.net/problem/11549   
 
-#### 06월 06일
 17295번 엔드게임 스포일러 : https://www.acmicpc.net/problem/17295   
 2747번 피보나치 수 : https://www.acmicpc.net/problem/2747   
 
-#### 06월 07일
 11382번 꼬마 정민 : https://www.acmicpc.net/problem/11382   
 14652번 나는 행복합니다~ : https://www.acmicpc.net/problem/14652   
 
-#### 06월 08일
 1302번 베스트셀러 : https://www.acmicpc.net/problem/1302   
 1964번 오각형, 오각형, 오각형… : https://www.acmicpc.net/problem/1964   
 
-#### 06월 09일
 14918번 더하기 : https://www.acmicpc.net/problem/14918   
 15733번 나는 누구인가 : https://www.acmicpc.net/problem/15733   
 
-#### 06월 10일
 1237번 정ㅋ벅ㅋ : https://www.acmicpc.net/problem/1237   
 12096번 : https://www.acmicpc.net/problem/12096   
+***
+### 2021년 07월
+1022번 소용돌이 예쁘게 출력하기 : https://www.acmicpc.net/problem/1022   
